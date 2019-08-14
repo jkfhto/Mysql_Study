@@ -1,6 +1,6 @@
 # Mysql_Study
 
-Mysql 学习
+Mysql8.0 学习
 
 ## 数据库选型 SQL VS NOSQL
 
@@ -624,4 +624,3 @@ SELECT * FROM test
   - 解决方法：使用JOIN关联代替子查询
 - 在表中定义的具有NOT NULL和DEFAULT值的列，在插入数据时直接插入NULL值
   - 解决方法： 避免插入NULL
-  
