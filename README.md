@@ -624,3 +624,7 @@ SELECT * FROM test
   - 解决方法：使用JOIN关联代替子查询
 - 在表中定义的具有NOT NULL和DEFAULT值的列，在插入数据时直接插入NULL值
   - 解决方法： 避免插入NULL
+
+## 参考
+
+- [程序猿必知必会-MySQL 8.0详解与实战](https://coding.imooc.com/class/332.html)
